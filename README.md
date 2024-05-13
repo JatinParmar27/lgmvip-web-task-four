@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-You can chack out it on: https://lgmvip-web-task-four.vercel.app/
+You can chack it out on: https://lgmvip-web-task-four.vercel.app/
 
 ## Available Scripts
 
